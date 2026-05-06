@@ -3,7 +3,7 @@ from matplotlib import pyplot as plt
 from urllib.parse import quote
 
 upi_id = "8660972945@ptsbi"
-name = "RavishankarAnkir"
+name = "Nandan"
 amount = "10000"
 
 # Encode name properly
